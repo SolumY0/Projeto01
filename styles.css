@@ -8,6 +8,7 @@ body{
     font-size: 40px;
     background-color: rgb(193, 214, 232);
     text-align: inherit;
+    background-image: url(img/petalas.png);
 }
 
 #meuQuadrado{
@@ -15,12 +16,12 @@ body{
     border-radius: 20PX;
     width: 1390px;
     height: 1430px;
-    margin-left: 40px;
+    margin-left: 70px;
     margin-top: 400px;
 }
 
 #cabecalho{
-    height: 150px;
+    height: 220px;
     background-color: rgb(48, 52, 137);
     width: 100%;
     margin: 0 auto;
@@ -43,7 +44,7 @@ h2{
 #bola{
     float: left;
     margin-right: 120px;
-    margin-left: 150px;
+    margin-left: 160px;
     margin-top: 50px;
 }
 
@@ -93,7 +94,7 @@ p{
     border-radius: 20PX;
     width: 1390px;
     height: 1300px;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 
 #desastre{
@@ -115,7 +116,7 @@ p{
     width: 1390px;
     height: 1390px;
     margin-top: 50px;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 
 #anime{
@@ -171,4 +172,9 @@ button{
 
 #arrumarCultura{
     margin-right: 360px;
+}
+
+iframe{
+    margin-left: 480px;
+    margin-top: 60px;
 }
